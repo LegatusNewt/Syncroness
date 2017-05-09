@@ -11,6 +11,9 @@
 #Intellij Folders
 /.idea
 
+#Hard allow JAR
+!SyncronessVehicleInventory-1.0-SNAPSHOT.jar
+
 #Gradle Stuff
 /.gradle
 /build
